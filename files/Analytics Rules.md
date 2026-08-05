@@ -1,8 +1,3 @@
----
-date: 2026-08-02
-tags:
----
-
 **Failed logon burst (brute-force volume):**
 ```kql
 SecurityEvent
